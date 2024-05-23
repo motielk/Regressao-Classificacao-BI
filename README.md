@@ -390,6 +390,8 @@ plt.xlabel('Variável Independente')
 plt.ylabel('Variável Dependente')
 plt.title('Regressão Não Linear Exponencial')
 plt.legend()
+plt.show()
+
 ~~~
 ![RegressãoNãoLinear](https://github.com/motielk/Regressao-Classificacao-BI/assets/49123696/a36dcfc5-6e3d-4b43-8fa7-5d8fa9dbff09)
 
